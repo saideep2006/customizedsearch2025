@@ -29,17 +29,27 @@ body {
     font-size: 20px;
 }
  .navigate {
-    padding: 5px 5px;
+    padding: 12px 12px;
     background-color: hsl(133, 86%, 46%);
     color: white;
     border-radius: 15px;
-    font-weight: bold;
-    font-size: 35px;
-    margin-left: -30%;
-    cursor: pointer;
-    text-shadow: 2px 2px 4px hsl(0, 10%, 96%);
+    font-size: 25px;
     text-decoration: none;
+    font-weight: bold;
+    display: inline-flex;
+    justify-content: center;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    margin-left: 220px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+ }
+ @media (max-width: 600px) {
+    .navigate{
+        writing-mode: horizontal-tb;
+        transform: none;
+        font-size: 14px;
+        padding: 8px 12px;
+    }
  }
  .navigate :hover {
     transform: scale(1.1);
