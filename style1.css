@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: pink;
+    margin: 0; 
+    display: flex;
+    flex-wrap: wrap;
+}
+.lo {
+    display: flex;
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 250px;
+    width: 550px;
+}
+.cop {
+    margin-left: 450px;
+    margin-top: -250px;
+    font-size: 55px;
+    color: hsl(240, 100%, 27%);
+    text-shadow: 4px 5px 4px goldenrod
+}
+.Line
+{
+    /* border: 5px solid hsl(240, 100%, 27%); */
+    margin-top: 5px;
+    width: 500px;
+    display: flex;
+    margin-left: 50px;
+    font-size: 20px;
+}
+ .navigate {
+    position: fixed;
+    top: 150px;
+    margin-left: 1050px;
+    margin-top: 120px;
+    padding: 12px 24px;
+    background-color: hsl(133, 86%, 46%);
+    color: white;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 50px;
+    cursor: pointer;
+    text-shadow: 2px 2px 4px hsl(0, 10%, 96%);
+    text-decoration: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+ }
+ .navigate :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+ .navigate:hover {
+    background-color: lch(47.34% 91.85 38.28);
+}
+.foot {
+    position: flex;
+    bottom: 0;
+    width: 100%;
+    background-color: hsl(240, 100%, 27%);
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+.parent {
+   position: relative;
+    height: 500px;
+    padding: 10px;
+}
+.contact {
+    position: flex;
+    bottom: 0;
+    font-size: 25px;
+    line-height: 1.5;
+    margin-left: 200px;
+    margin-top: 180px;
+}

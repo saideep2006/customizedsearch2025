@@ -1,0 +1,234 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: grey;
+    margin: 0;
+    padding: 20px;   
+    display: flex;
+    flex-wrap: wrap;
+}
+ .rrb img {
+    margin-left: 30px;
+    margin-right: 17px;
+    margin-top: 10px;
+    border: #080807 10px solid;
+ }
+ .rrb :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.post img {
+    height: 225px;
+    width: 235px;
+    margin-left: 110px;
+    margin-top: 80px;
+    border: cyan 10px solid;
+}
+.ssc img {
+    height: 225px;
+    width: 235px;
+    margin-left: 110px;
+    margin-top: 10px;
+    border:blueviolet 10px solid;
+}
+.ssc :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.post img {
+    height: 225px;
+    width: 235px;
+    margin-left: 110px;
+    margin-top: 10px;
+    border:blueviolet 10px solid;
+}
+.post :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.ttd img {
+    height: 227px;
+    width: 235px;
+    margin-top: 12px;
+    margin-left: 160px;
+    border: red 10px solid;
+}
+.ttd :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.drdo img {
+    height: 225px;
+    width: 235px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border: blue 10px solid;
+}
+.drdo :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.infosys img {
+    height: 225px;
+    width: 235px;
+    margin-left: 120px;
+    margin-top: 80px;
+    border: whitesmoke 10px solid;
+}
+.infosys :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.cognizant img {
+    height: 225px;
+    width: 235px;
+    margin-left: 125px;
+    margin-top: 80px;
+    border: lightcoral 10px solid;
+}
+.cognizant :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.ir img {
+    height: 225px;
+    width: 235px;
+    margin-left: 160px;
+    margin-top: 80px;
+    border: orange 10px solid;
+}
+.ir :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.swi img {
+    height: 225px;
+    width: 235px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border: limegreen 10px solid;
+}
+.swi :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.rap img {
+    height: 225px;
+    width: 235px;
+    margin-left: 120px;
+    margin-top: 80px;
+    border: black 10px solid;
+}
+.rap :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.jiohot img {
+    height: 225px;
+    width: 235px;
+    margin-left: 125px;
+    margin-top: 80px;
+    border: white 10px solid;
+}
+.jiohot :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.ama img {
+    height: 225px;
+    width: 235px;
+    margin-left: 160px;
+    margin-top: 80px;
+    border: yellow 10px solid;
+}
+.ama :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.fpk img {
+    height: 225px;
+    width: 235px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border: cyan 10px solid;
+}
+.fpk :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.msh img {
+    height: 225px;
+    width: 235px;
+    margin-left: 120px;
+    margin-top: 80px;
+    border: magenta 10px solid;
+}
+.msh :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.whw img {
+    height: 225px;
+    width: 235px;
+    margin-left: 125px;
+    margin-top: 80px;
+    border: green 10px solid;
+}
+.whw :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.insta img {
+    height: 225px;
+    width: 235px;
+    margin-left: 160px;
+    margin-top: 80px;
+    border:  blue 10px solid;
+}
+.insta :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.yt img {
+    height: 225px;
+    width: 235px;
+    margin-left: 20px;
+    margin-top: 80px;
+    border: goldenrod 10px solid;
+}
+.yt :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.ins img {
+    height: 225px;
+    width: 235px;
+    margin-left: 120px;
+    margin-top: 80px;
+    border: darkorange 10px solid;
+}
+.ins :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.zom img {
+    height: 225px;
+    width: 235px;
+    margin-left: 125px;
+    margin-top: 80px;
+    border: purple 10px solid;
+}
+.zom :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+.ixi img {
+    height: 225px;
+    width: 235px;
+    margin-left: 160px;
+    margin-top: 80px;
+    border: teal 10px solid;
+}
+.ixi :hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
